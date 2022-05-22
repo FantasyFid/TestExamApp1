@@ -1,5 +1,4 @@
 
-from msilib.schema import Error
 import os
 from pathlib import Path
 import re
